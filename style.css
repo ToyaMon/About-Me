@@ -17,10 +17,11 @@ body {
 }
   
 .img-display{
-  position: static;
+  position: center;
   border: 3px solid black;
   shadow: 2px black;
-  width: 500px;
+  width: auto;
+  height: auto;
 }
 
 p{
@@ -41,10 +42,14 @@ header div h1{
   color: black;
 }
 
-main div section h2{
+main div{
+  text-align: center;
+}
+
+main div h2{
   font-size: 20px;
   color: black;
-  font-family: inherit;
+  font-family: arial;
 }
 
 h2 h3{
