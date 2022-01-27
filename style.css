@@ -1,8 +1,18 @@
 body {
-  background-color: white;
+  background-color: #fffff;
   margin:0;
 }
 
+.text-center{
+  text-align: center;
+}
+
+.wrapper{
+  width: full;
+  margin: auto;
+}
+
+  
 p{
   font-family: Arial;
   color: slategrey;
@@ -33,7 +43,7 @@ h2 h3{
   font-size: 16px;
 }
 
-ul .p{
+.
   style: italics;
 
   
