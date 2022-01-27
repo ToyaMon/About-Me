@@ -16,15 +16,20 @@ body {
   background-color: aqua;
 }
   
+.img-display{
+  position: static;
+  border: 3px solid black;
+  shadow: 2px black;
+  width: 500px;
+}
+
 p{
   font-family: Arial;
   color: slategrey;
   font-size: 14px;
 }
 
-header div,
-footer div,{
-  background-color: aqua;
+header div{
   width: full;
   text-align: center;
   padding: 25px 10px 25px 10px;
