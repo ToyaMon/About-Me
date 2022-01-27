@@ -1,10 +1,16 @@
+body {
+  background-color: white;
+  margin:0;
+}
+
 p{
   font-family: Arial;
   color: slategrey;
-  font-size: 12px;
+  font-size: 14px;
 }
 
-header footer{
+header div,
+footer div,{
   background-color: aqua;
   width: full;
   text-align: center;
@@ -26,6 +32,9 @@ h2{
 h2 h3{
   font-size: 16px;
 }
+
+ul .p{
+  style: italics;
 
   
   
