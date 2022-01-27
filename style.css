@@ -12,6 +12,9 @@ body {
   margin: auto;
 }
 
+.header-color{
+  background-color: aqua;
+}
   
 p{
   font-family: Arial;
@@ -43,8 +46,13 @@ h2 h3{
   font-size: 16px;
 }
 
-.
-  style: italics;
+header div h1 nav{
+  text-align: center;
+  font-size: 50px;
+  font-family: fancy;
+}
+
+  
 
   
   
