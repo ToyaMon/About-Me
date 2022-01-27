@@ -12,14 +12,14 @@
 }
 /* trying to get the image to display in the middle of the page correctly */ 
 .img-display{
-  img-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
   border: 3px solid black;
   shadow: 2px black;
-  width: auto;
-  height: auto;
 }
 /* all text in the paragraph sections*/
-p{
+ div p{
   font-family: Arial;
   color: slategrey;
   font-size: 14px;
@@ -46,11 +46,11 @@ footer div{
   border: 3px solid black;
   background-color: lightgrey;
   padding: 10%;
+  margin-right: auto;
+  margin-left: auto;
 }
 
-section div{
-  alignment: center;
-}
+
   
 
   
