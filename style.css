@@ -42,6 +42,13 @@ footer div p{
   color: red;
 }
   
+.section-format{
+  width: auto;
+  height: auto;
+  border: 3px solid black;
+  background-color: lightgrey;
+}
+  
 
   
 
