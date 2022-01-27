@@ -1,8 +1,3 @@
-body{
-  background-color: #fffff;
-  margin:0;
-}
-
 .text-center{
   text-align: center;
 }
@@ -17,7 +12,7 @@ body{
 }
 /* trying to get the image to display in the middle of the page correctly */ 
 .img-display{
-  position: center;
+  img-align: center;
   border: 3px solid black;
   shadow: 2px black;
   width: auto;
@@ -36,7 +31,7 @@ header div h1 nav{
   font-family: Arial;
 }
 
-footer div p{
+footer div{
   text-align: center;
   font-size: 100;
   color: red;
