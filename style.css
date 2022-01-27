@@ -1,4 +1,4 @@
-body {
+body{
   background-color: #fffff;
   margin:0;
 }
@@ -6,16 +6,16 @@ body {
 .text-center{
   text-align: center;
 }
-
+/* not entirely sure what a wrapper even does */
 .wrapper{
   width: full;
   margin: auto;
 }
-
+/* background color of header and footer*/
 .header-color{
   background-color: aqua;
 }
-  
+/* trying to get the image to display in the middle of the page correctly */ 
 .img-display{
   position: center;
   border: 3px solid black;
@@ -23,44 +23,25 @@ body {
   width: auto;
   height: auto;
 }
-
+/* all text in the paragraph sections*/
 p{
   font-family: Arial;
   color: slategrey;
   font-size: 14px;
 }
 
-header div{
-  width: full;
-  text-align: center;
-  padding: 25px 10px 25px 10px;
-  font-family: Arial;
-}
-
-header div h1{
-  font-size: 30px;
-  color: black;
-}
-
-main div{
-  text-align: center;
-}
-
-main div h2{
-  font-size: 20px;
-  color: black;
-  font-family: arial;
-}
-
-h2 h3{
-  font-size: 16px;
-}
-
 header div h1 nav{
   text-align: center;
   font-size: 50px;
-  font-family: fancy;
+  font-family: Arial;
 }
+
+footer div p{
+  text-align: center;
+  font-size: 100;
+  color: red;
+}
+  
 
   
 
