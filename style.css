@@ -116,3 +116,7 @@ h3{
   padding-left: 110px;
 }
   
+a:link    { color: black;  }
+a:visited { color: red;   }
+a:hover   { color: blue; }
+a:active  { color: yellow;  }
