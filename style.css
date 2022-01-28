@@ -57,13 +57,13 @@ footer{
 .section-format{
   border:none;
   background-color: lightblue;
-  padding: 15px 15px;
+  padding: 10 10 10 10;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
   content-align: middle;
   border-radius: 25px;
-  width: 50%;
+  max-width: 800px;
 }
 
   
