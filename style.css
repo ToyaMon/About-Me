@@ -27,7 +27,7 @@ body{
 .img-display{
   margin-left: auto;
   margin-right: auto;
-  width: 650px;
+  width: 40%;
   border: 5px solid black;
   shadow: 2px black;
   margin-top: 15px;
@@ -39,11 +39,14 @@ body{
   color: black;
   font-size: 18px;
 }
-
+ul{
+  text-align: left;
+  list-style-position: inside;
+}
 footer{
   background-color: lightgrey;
-  margin: 10px;
-  padding: 10px;
+  margin: 20px;
+  padding: 20px;
   shadow-bottom: 1px black;
   text-align: center;
   font-style: bold;
@@ -52,20 +55,17 @@ footer{
 }
   
 .section-format{
-  border-bottom: 1px solid black;
+  border:none;
   background-color: lightblue;
-  padding: 25px 30px;
+  padding: 15px 15px;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
   content-align: middle;
   border-radius: 25px;
-}
-
-div{
-  margin: auto;
   width: 50%;
 }
+
   
 h1{
   font-size: 40px;
@@ -88,11 +88,11 @@ h3{
   background-color: yellow;
   border: none;
   color: black;
-  padding: 15px 30px;
+  padding: 5px;
   font-size: 20px;
   text-align: center;
-  display: block;
-  margin: 15 auto 15 auto;
+  display: block-inside;
+  margin: 15 15 15 15;
 }
 
   
