@@ -103,5 +103,8 @@ h3{
   border-radius: 25px;
   position: static;
 }
-
+.text-width{
+  max-width: 400px;
+  text-align: left;
+}
   
