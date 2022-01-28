@@ -1,5 +1,6 @@
 body{
   margin: 0px;
+  background-color: black;
 }
 .text-center{
   text-align: center;
@@ -61,18 +62,20 @@ footer{
   font-style: bold;
   font-color: black;
   font-size: 20px;
+  border-radius: 25px;
 }
   
 .section-format{
   border:none;
   background-color: lightblue;
-  padding: 8%;
+  padding: 10px;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
   content-align: middle;
   border-radius: 25px;
-  max-width: 800px;
+  max-width: 600px;
+  font-family: arial;
 }
 
   
@@ -94,20 +97,22 @@ h3{
 }
 /* button for seeing other website*/
 .button{
-  background-color: #ffff57;
-  border: none;
+  background-color: #ffbca8;
   color: black;
-  text-decoration:bold;
-  padding: 10px;
-  font-size: 20px;
+  font-weight: bold;
+  padding: 15px;
+  font-size: 15px;
   text-align: center;
   display: inline-block;
-  margin: 15 15 15 15;
   border-radius: 25px;
-  position: static;
+  margin-left: 39%;
+  margin-right: 40%;
+  margin-top: 25px;
 }
+
 .text-width{
   max-width: 400px;
   text-align: left;
+  padding-left: 110px;
 }
   
