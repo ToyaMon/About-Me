@@ -12,11 +12,11 @@ body{
 /* header design is this one */
 .header-main{
   background-color: aqua;
-  margin-top: 0;
-  padding: 10%;
+  margin: 10px;
+  padding: 20px;
   text-align: center;
   border-bottom: 5px solid black;
-  word-spacing: 15px;
+  word-spacing: 10px;
 }
   
   
@@ -34,11 +34,11 @@ body{
  div, ul, p{
   font-family: Arial;
   color: slategrey;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 footer{
-  background-color: blue;
+  background-color: aqua;
   margin: 10px;
   padding: 10px;
   shadow-bottom: 1px black;
@@ -48,17 +48,10 @@ footer{
   font-size: 20px;
 }
   
-footer, div{
-  text-align: center;
-  font-size: 20px;
-  font-style: bold;
-  color: red;
-}
-  
 .section-format{
   border: 3px solid black;
   background-color: lightgrey;
-  padding: 2%;
+  padding: 30px;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
@@ -70,12 +63,22 @@ div{
   width: 50%;
 }
   
-div, h1{
+h1{
   font-size: 40px;
   font-family: arial;
   color: black;
   text-align: center;
 }
+h2{
+  font-size: 30px;
+  font-family: arial;
+  color: black;
+  text-align: center;
+}
+h3{
+  font-size: 20px;
+}
+
   
 
   
