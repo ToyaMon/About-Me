@@ -31,7 +31,7 @@ body{
   margin-top: 5px;
 }
 /* all text in the paragraph sections*/
- div, p{
+ div, ul, p{
   font-family: Arial;
   color: slategrey;
   font-size: 14px;
@@ -51,7 +51,7 @@ footer{
 footer, div{
   text-align: center;
   font-size: 20px;
-  font-style: bold
+  font-style: bold;
   color: red;
 }
   
@@ -62,6 +62,7 @@ footer, div{
   margin-right: auto;
   margin-left: auto;
   text-align: center;
+  content-align: middle
 }
 
 div{
