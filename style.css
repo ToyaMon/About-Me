@@ -10,8 +10,15 @@ body{
   margin: auto;
 }
 /* background color of header and footer*/
-.header-color{
+.header-main{
   background-color: aqua;
+  margin-top: 0;
+  padding: 10%;
+  text-align: center;
+  border-bottom: 5px solid black;
+}
+  
+  
 }
 /* trying to get the image to display in the middle of the page correctly */ 
 .img-display{
