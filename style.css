@@ -36,7 +36,7 @@ body{
 
 }
 /* all text in the paragraph sections*/
- div, ul, li, h3, p{
+ div, ul, li, h5, p{
   font-family: Arial;
   color: black;
   font-size: 18px;
