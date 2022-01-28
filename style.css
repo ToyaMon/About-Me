@@ -24,14 +24,17 @@ body{
 }
 /* trying to get the image to display in the middle of the page correctly */ 
 .img-display{
+  display: block;
   margin-left: auto;
   margin-right: auto;
+  width: 50%;
   max-width: 700px;
   border: 5px solid black;
   shadow: 2px black;
   margin-top: 15px;
   border-radius: 25px;
-  position: static;
+}
+
 }
 /* all text in the paragraph sections*/
  div, ul, li, p{
@@ -63,7 +66,7 @@ footer{
 .section-format{
   border:none;
   background-color: lightblue;
-  padding: 10 10 10 10;
+  padding: 8%;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
