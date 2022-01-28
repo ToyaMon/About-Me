@@ -36,7 +36,7 @@ body{
 
 }
 /* all text in the paragraph sections*/
- div, ul, li, p{
+ div, ul, li, h3, p{
   font-family: Arial;
   color: black;
   font-size: 18px;
@@ -126,3 +126,5 @@ a:active  { color: yellow;  }
   text-align: center;
   font-family: arial;
 }
+
+
