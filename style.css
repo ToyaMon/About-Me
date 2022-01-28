@@ -25,15 +25,15 @@ body{
 .img-display{
   margin-left: auto;
   margin-right: auto;
-  width: 50%;
-  border: 3px solid black;
+  width: 650px;
+  border: 5px solid black;
   shadow: 2px black;
-  margin-top: 5px;
+  margin-top: 15px;
 }
 /* all text in the paragraph sections*/
- div, ul, p{
+ div, ul, li, p{
   font-family: Arial;
-  color: slategrey;
+  color: black;
   font-size: 18px;
 }
 
@@ -49,13 +49,14 @@ footer{
 }
   
 .section-format{
-  border: 3px solid black;
-  background-color: lightgrey;
-  padding: 30px;
+  border: 1px solid black;
+  background-color: lightblue;
+  padding: 25px 30px;
   margin-right: auto;
   margin-left: auto;
   text-align: center;
-  content-align: middle
+  content-align: middle;
+  border-radius: 25px;
 }
 
 div{
